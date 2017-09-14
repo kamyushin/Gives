@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/kamyu/Documents/\u4F5C\u6210\u7269/Unity/SMM_alone/Assets/Scenes/Title.unity"
+  isLoaded: 1
+  isActive: 1
