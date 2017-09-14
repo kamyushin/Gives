@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMM.Plugins", "SMM.Plugins.csproj", "{99FFDB0D-D8F0-0A8B-5B83-AB51D620DA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMM", "SMM.csproj", "{7C292981-CCA2-A186-FFBE-88B15B0EC1D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FFDB0D-D8F0-0A8B-5B83-AB51D620DA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FFDB0D-D8F0-0A8B-5B83-AB51D620DA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FFDB0D-D8F0-0A8B-5B83-AB51D620DA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FFDB0D-D8F0-0A8B-5B83-AB51D620DA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C292981-CCA2-A186-FFBE-88B15B0EC1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C292981-CCA2-A186-FFBE-88B15B0EC1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C292981-CCA2-A186-FFBE-88B15B0EC1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C292981-CCA2-A186-FFBE-88B15B0EC1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
